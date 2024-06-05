@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Admin Pannel Embeded.props" />
+</Project>

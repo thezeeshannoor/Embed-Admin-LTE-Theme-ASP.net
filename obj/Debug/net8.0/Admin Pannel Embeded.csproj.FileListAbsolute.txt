@@ -1,0 +1,30 @@
+F:\c#work\Admin Pannel Embeded\bin\Debug\net8.0\appsettings.Development.json
+F:\c#work\Admin Pannel Embeded\bin\Debug\net8.0\appsettings.json
+F:\c#work\Admin Pannel Embeded\bin\Debug\net8.0\Admin Pannel Embeded.staticwebassets.runtime.json
+F:\c#work\Admin Pannel Embeded\bin\Debug\net8.0\Admin Pannel Embeded.exe
+F:\c#work\Admin Pannel Embeded\bin\Debug\net8.0\Admin Pannel Embeded.deps.json
+F:\c#work\Admin Pannel Embeded\bin\Debug\net8.0\Admin Pannel Embeded.runtimeconfig.json
+F:\c#work\Admin Pannel Embeded\bin\Debug\net8.0\Admin Pannel Embeded.dll
+F:\c#work\Admin Pannel Embeded\bin\Debug\net8.0\Admin Pannel Embeded.pdb
+F:\c#work\Admin Pannel Embeded\obj\Debug\net8.0\Admin Pannel Embeded.GeneratedMSBuildEditorConfig.editorconfig
+F:\c#work\Admin Pannel Embeded\obj\Debug\net8.0\Admin Pannel Embeded.AssemblyInfoInputs.cache
+F:\c#work\Admin Pannel Embeded\obj\Debug\net8.0\Admin Pannel Embeded.AssemblyInfo.cs
+F:\c#work\Admin Pannel Embeded\obj\Debug\net8.0\Admin Pannel Embeded.csproj.CoreCompileInputs.cache
+F:\c#work\Admin Pannel Embeded\obj\Debug\net8.0\Admin Pannel Embeded.MvcApplicationPartsAssemblyInfo.cache
+F:\c#work\Admin Pannel Embeded\obj\Debug\net8.0\Admin Pannel Embeded.RazorAssemblyInfo.cache
+F:\c#work\Admin Pannel Embeded\obj\Debug\net8.0\Admin Pannel Embeded.RazorAssemblyInfo.cs
+F:\c#work\Admin Pannel Embeded\obj\Debug\net8.0\staticwebassets.build.json
+F:\c#work\Admin Pannel Embeded\obj\Debug\net8.0\staticwebassets.development.json
+F:\c#work\Admin Pannel Embeded\obj\Debug\net8.0\staticwebassets\msbuild.Admin Pannel Embeded.Microsoft.AspNetCore.StaticWebAssets.props
+F:\c#work\Admin Pannel Embeded\obj\Debug\net8.0\staticwebassets\msbuild.build.Admin Pannel Embeded.props
+F:\c#work\Admin Pannel Embeded\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Admin Pannel Embeded.props
+F:\c#work\Admin Pannel Embeded\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Admin Pannel Embeded.props
+F:\c#work\Admin Pannel Embeded\obj\Debug\net8.0\staticwebassets.pack.json
+F:\c#work\Admin Pannel Embeded\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\c#work\Admin Pannel Embeded\obj\Debug\net8.0\scopedcss\bundle\Admin Pannel Embeded.styles.css
+F:\c#work\Admin Pannel Embeded\obj\Debug\net8.0\scopedcss\projectbundle\Admin Pannel Embeded.bundle.scp.css
+F:\c#work\Admin Pannel Embeded\obj\Debug\net8.0\Admin Pannel Embeded.dll
+F:\c#work\Admin Pannel Embeded\obj\Debug\net8.0\refint\Admin Pannel Embeded.dll
+F:\c#work\Admin Pannel Embeded\obj\Debug\net8.0\Admin Pannel Embeded.pdb
+F:\c#work\Admin Pannel Embeded\obj\Debug\net8.0\Admin Pannel Embeded.genruntimeconfig.cache
+F:\c#work\Admin Pannel Embeded\obj\Debug\net8.0\ref\Admin Pannel Embeded.dll
