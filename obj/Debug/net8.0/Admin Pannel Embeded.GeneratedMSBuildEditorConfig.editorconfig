@@ -1,11 +1,19 @@
 is_global = true
 build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
 build_property.TargetPlatformMinVersion = 
 build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Admin_Pannel_Embeded
 build_property.RootNamespace = Admin_Pannel_Embeded
@@ -32,6 +40,42 @@ build_metadata.AdditionalFiles.CssScope =
 
 [F:/c\#work/Admin Pannel Embeded/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/c\#work/Admin Pannel Embeded/Views/Shared/_AsideBar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Bc2lkZUJhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/c\#work/Admin Pannel Embeded/Views/Shared/_ControlSideBar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Db250cm9sU2lkZUJhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/c\#work/Admin Pannel Embeded/Views/Shared/_Footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Gb290ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/c\#work/Admin Pannel Embeded/Views/Shared/_HeadData.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9IZWFkRGF0YS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/c\#work/Admin Pannel Embeded/Views/Shared/_Nav.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9OYXYuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/c\#work/Admin Pannel Embeded/Views/Shared/_Preloader.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9QcmVsb2FkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/c\#work/Admin Pannel Embeded/Views/Shared/_Scripts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TY3JpcHRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/c\#work/Admin Pannel Embeded/Views/Shared/_SideBar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TaWRlQmFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/c\#work/Admin Pannel Embeded/Views/Shared/_StudentList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TdHVkZW50TGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [F:/c\#work/Admin Pannel Embeded/Views/Shared/_ValidationScriptsPartial.cshtml]

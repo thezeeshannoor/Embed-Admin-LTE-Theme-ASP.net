@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Admin Pannel Embeded")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b54326a3415bd4100a80ae4bfbda7bfc7425ff8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Admin Pannel Embeded")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Admin Pannel Embeded")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

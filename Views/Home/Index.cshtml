@@ -8,6 +8,7 @@
         <div class="container-fluid">
             <div class="row mb-2">
                 <div class="col-sm-6">
+                    @Html.Partial("_StudentList")
                     <h1 class="m-0">Dashboard</h1>
                 </div><!-- /.col -->
                 <div class="col-sm-6">
@@ -597,3 +598,14 @@
     <!-- /.content -->
 
    </div>
+
+
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+            alert("Dashboard V1");
+        });
+       
+
+    </script>
+   }
