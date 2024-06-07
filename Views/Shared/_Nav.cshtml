@@ -1,5 +1,5 @@
 ﻿
-@model ModelView
+@model IEnumerable<Nav>
 
 @{
     ViewData["Title"] = "Index";
@@ -13,7 +13,8 @@
         <li class="nav-item">
             <a class="nav-link" data-widget="pushmenu" href="#" role="button"><i class="fas fa-bars"></i></a>
         </li>
-        @foreach(var item in Model.NavList){
+        @foreach (var item in Model)
+        {
             <li class="nav-item d-none d-sm-inline-block">
               
                 <a asp-controller="Home" asp-action="@item.Action" class="nav-link">@item.Name</a>

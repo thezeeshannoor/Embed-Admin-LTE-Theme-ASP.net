@@ -1,4 +1,5 @@
-﻿<!DOCTYPE html>
+﻿@inject Nav nav
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <partial name="_HeadData"/>
@@ -8,7 +9,9 @@
     <div class="wrapper">
 
         <partial name="_Preloader" />
-        <partial name="_Nav" />
+        @Html.Partial("_Nav",nav.NavFun());
+
+      
         <partial name="_AsideBar"/>
         <div class="content-wrapper">
               @RenderBody()

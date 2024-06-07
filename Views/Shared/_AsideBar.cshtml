@@ -1,4 +1,5 @@
-﻿<aside class="main-sidebar sidebar-dark-primary elevation-4">
+﻿@inject Nav nav
+<aside class="main-sidebar sidebar-dark-primary elevation-4">
     <!-- Brand Logo -->
     <a href="index3.html" class="brand-link">
         <img src="~/Frontend/dist/img/AdminLTELogo.png" alt="AdminLTE Logo" class="brand-image img-circle elevation-3" style="opacity: .8">
@@ -6,6 +7,6 @@
     </a>
 
     <!-- Sidebar -->
-    <partial name="_SideBar" />
+    @Html.Partial("_SideBar", nav.SideBar());
     <!-- /.sidebar -->
 </aside>

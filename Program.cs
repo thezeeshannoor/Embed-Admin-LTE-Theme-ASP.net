@@ -1,7 +1,10 @@
+using Admin_Pannel_Embeded.Models;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddTransient<Nav>();
 
 var app = builder.Build();
 

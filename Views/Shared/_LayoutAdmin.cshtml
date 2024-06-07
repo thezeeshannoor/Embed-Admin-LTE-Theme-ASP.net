@@ -1,0 +1,17 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <partial name="_HeadData" />
+</head>
+<body>
+    @Html.Partial("_AdminNavbar")
+    <div>
+
+        @RenderBody()
+    </div>
+    <partial name="_Scripts" />
+</body>
+</html>
