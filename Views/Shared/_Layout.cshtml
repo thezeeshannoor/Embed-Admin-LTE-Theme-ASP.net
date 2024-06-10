@@ -1,4 +1,5 @@
-﻿@inject Nav nav
+﻿@* @inject Nav nav *@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -7,9 +8,10 @@
 
 <body class="hold-transition sidebar-mini layout-fixed">
     <div class="wrapper">
-
+        
         <partial name="_Preloader" />
-        @Html.Partial("_Nav",nav.NavFun());
+        @* @Html.Partial("_Nav",nav.NavFun()); *@
+        @await Component.InvokeAsync("Nav2")
 
       
         <partial name="_AsideBar"/>
